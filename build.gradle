@@ -1,0 +1,44 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.8.+'
+    }
+}
+
+apply plugin: 'android'
+
+repositories {
+    maven { url "http://dl.bintray.com/populov/maven" } // Needed for Android ViewPagerIndicator
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+    compile 'com.google.android.gms:play-services:4.1.+'
+    compile 'com.viewpagerindicator:library:2.4.1@aar'
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile files('libs/ftdriver.jar')
+    compile files('libs/sec.jar')
+    compile files('libs/usbseriallibrary.jar')
+}
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "19.0.1"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+    }
+}
