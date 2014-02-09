@@ -233,7 +233,6 @@ Après avoir démarré l\'émulation GPS, l\'application sera mise en arrière-p
   <string name="MoveMapEnable">Activation du déplacement de la carte</string>
   <string name="MoveMapDissable">Desactivation du déplacement de la carte</string>
   <string name="AddCirclePath">ajoute un parcourt circulaire</string>
-  <string name="Cancel">Annuler</string>
   <string name="Radius">Rayon</string>
   <string name="EnterRadius">Saisissez le rayon du cercle en mètres</string>
   <string name="Close">Fermer</string>

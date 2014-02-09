@@ -223,7 +223,6 @@
   <string name="MoveMapEnable">启用地图自动移动</string>
   <string name="MoveMapDissable">关闭地图自动移动</string>
   <string name="AddCirclePath">添加一个环形航线</string>
-  <string name="Cancel">取消</string>
   <string name="Radius">半径</string>
   <string name="EnterRadius">输入圆的半径（米）</string>
   <string name="Close">关闭</string>

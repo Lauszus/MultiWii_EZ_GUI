@@ -205,7 +205,6 @@ No s\'ha trobat cap dispositiu</string>
   <string name="MoveMapEnable">Mapa en moviment habilitat</string>
   <string name="MoveMapDissable">Mapa en moviment deshabilitat</string>
   <string name="AddCirclePath">Afegeix Circle Path</string>
-  <string name="Cancel">Cancel·lar</string>
   <string name="Radius">Radi</string>
   <string name="EnterRadius">Introduïu el radi del cercle en metres</string>
   <string name="Close">Tancar</string>

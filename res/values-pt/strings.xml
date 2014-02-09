@@ -193,7 +193,6 @@ Apontar frente do multi</string>
   <string name="BatWarning2">AvisoBat2</string>
   <string name="BatCritical">BatCrítico</string>
   <string name="TakeDeclinationFromPhone">Tomar a declinação do telefone</string>
-  <string name="Cancel">Cancelar</string>
   <string-array name="wp_actions">
     <item>WayPoint</item>
     <item>PosHold Unlimited</item>

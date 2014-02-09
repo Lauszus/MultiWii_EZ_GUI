@@ -230,7 +230,6 @@
   <string name="MoveMapEnable">Μετακίνηση χάρτη ενεργοποίηση</string>
   <string name="MoveMapDissable">Μετακίνηση χάρτη dissable</string>
   <string name="AddCirclePath">Προσθέστε διαδρομή κύκλο</string>
-  <string name="Cancel">"Άκυρο"</string>
   <string name="Radius">Ακτίνα</string>
   <string name="EnterRadius">Εισαγάγετε την ακτίνα του κύκλου στο μ</string>
   <string name="Close">Κλείσιμο</string>

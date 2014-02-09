@@ -230,7 +230,6 @@
   <string name="MoveMapEnable">Centrowanie mapy włączone</string>
   <string name="MoveMapDissable">Centrowanie mapy wyłączone</string>
   <string name="AddCirclePath">Dodaj ścieżkę kołową</string>
-  <string name="Cancel">Anuluj</string>
   <string name="Radius">Promień</string>
   <string name="EnterRadius">Podaj promień okręgu w metrach</string>
   <string name="Close">Zamknij</string>

@@ -229,7 +229,6 @@
   <string name="MoveMapEnable">Mitlaufende Karte aktiviert</string>
   <string name="MoveMapDissable">Mitlaufende Karte deaktiviert</string>
   <string name="AddCirclePath">Zirkel Punkt hinzufügen</string>
-  <string name="Cancel">Abbrechen</string>
   <string name="Radius">Radius</string>
   <string name="EnterRadius">Radius des Zirkel in Metern  </string>
   <string name="Close">Schließen</string>

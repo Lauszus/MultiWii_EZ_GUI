@@ -228,7 +228,6 @@
   <string name="MoveMapEnable">Posunování mapy zapnuto</string>
   <string name="MoveMapDissable">Posunování mapy vypnuto</string>
   <string name="AddCirclePath">Přidat kruhovou cestu</string>
-  <string name="Cancel">Zrušit</string>
   <string name="Radius">Rádius</string>
   <string name="EnterRadius">Vložte rádius kruhu v metrech</string>
   <string name="Close">Zavřít</string>

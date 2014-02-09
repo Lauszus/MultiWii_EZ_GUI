@@ -229,7 +229,6 @@
   <string name="MoveMapEnable">Moving Map inschakelen</string>
   <string name="MoveMapDissable">Moving Map uitschakelen</string>
   <string name="AddCirclePath">Circle Path toevoegen</string>
-  <string name="Cancel">Annuleren</string>
   <string name="Radius">Straal</string>
   <string name="EnterRadius">Voer de straal van de cirkel in meters in</string>
   <string name="Close">Sluiten</string>

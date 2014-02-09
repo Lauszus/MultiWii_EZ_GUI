@@ -231,7 +231,6 @@ Pulse el icono  EZ-GUI para volver atras</string>
   <string name="MoveMapEnable">Desplazamiento de mapa habilitado</string>
   <string name="MoveMapDissable">Desplazamiento de mapa deshabilitado</string>
   <string name="AddCirclePath">Añada punto de paso</string>
-  <string name="Cancel">Cancelar</string>
   <string name="Radius">Radio</string>
   <string name="EnterRadius">Introduzca el radio del circulo en metros</string>
   <string name="Close">Cerrar</string>

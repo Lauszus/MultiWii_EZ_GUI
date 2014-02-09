@@ -160,7 +160,6 @@ Ko zaženete GPS emulacijo, se bo program izvajal v ozadju, podatki prejeti iz M
   <string name="MoveMapEnable">Premikajoči zemljevid omogočen</string>
   <string name="MoveMapDissable">Premikajoči zemljevid onemogočen</string>
   <string name="AddCirclePath">Dodajanje krožne poti</string>
-  <string name="Cancel">Prekliči</string>
   <string name="Radius">Polmer</string>
   <string name="EnterRadius">Vnesite polmer kroga, v metrih</string>
   <string name="Close">Zapri</string>

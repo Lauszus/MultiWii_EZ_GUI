@@ -222,7 +222,6 @@
   <string name="MoveMapEnable">Переміщення карту увімкнене</string>
   <string name="MoveMapDissable">Переміщення карти вимкнене</string>
   <string name="AddCirclePath">Додати коло шляху</string>
-  <string name="Cancel">Скасувати</string>
   <string name="Radius">Радіус</string>
   <string name="EnterRadius">Введіть радіус кола в метрах</string>
   <string name="Close">Закрити</string>

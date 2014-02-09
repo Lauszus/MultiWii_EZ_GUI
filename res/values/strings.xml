@@ -242,7 +242,6 @@
     <string name="MoveMapEnable">Moving Map enable</string>
     <string name="MoveMapDissable">Moving Map dissable</string>
     <string name="AddCirclePath">Add Circle Path</string>
-    <string name="Cancel">Cancel</string>
     <string name="Radius">Radius</string>
     <string name="EnterRadius">Enter the radius of the circle in meters</string>
     <string name="Close">Close</string>

@@ -121,7 +121,6 @@
   <string name="RXBIND">RX PÁROSÍTÁS</string>
   <string name="InfoDonate">Hasznosnak találtad az alkalmazást? Támogasd a fejlesztőt!</string>
   <string name="Debug">Hibakeresés</string>
-  <string name="Cancel">Mégsem</string>
   <string-array name="wp_actions">
     <item>WayPoint</item>
     <item>PosHold Unlimited</item>

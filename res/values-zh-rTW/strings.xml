@@ -189,7 +189,6 @@
   <string name="NoDataRecieved">無接收數據</string>
   <string name="StartGpsEmulation">啟動GPS模擬</string>
   <string name="PleaseRestart">請重新啟動軟體</string>
-  <string name="Cancel">取消</string>
   <string name="Radius">半徑</string>
   <string name="Close">關閉</string>
   <string-array name="wp_actions">

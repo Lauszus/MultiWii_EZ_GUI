@@ -230,7 +230,6 @@ Dopo aver avviato l\'emulazione del GPS questo programma andrà in background, i
   <string name="MoveMapEnable">Abilita mappa in movimento</string>
   <string name="MoveMapDissable">Disabilita mappa in movimento</string>
   <string name="AddCirclePath">Aggiungere percorso in cerchio</string>
-  <string name="Cancel">Annulla</string>
   <string name="Radius">Raggio</string>
   <string name="EnterRadius">Inserisci il raggio del cerchio in metri</string>
   <string name="Close">Chiudi</string>

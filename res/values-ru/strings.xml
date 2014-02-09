@@ -204,7 +204,6 @@
   <string name="MoveMapEnable">Включено перемещение карты</string>
   <string name="MoveMapDissable">Выключено перемещение карты</string>
   <string name="AddCirclePath">Добавить круговой путь</string>
-  <string name="Cancel">Отмена</string>
   <string name="Radius">Радиус</string>
   <string name="EnterRadius">Введите радиус круга в метрах</string>
   <string name="Close">Закрыть</string>
